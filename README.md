@@ -50,7 +50,7 @@
 
         .live-status {
             font-size: 11px;
-            color: var(--accent-green);
+            color: var(--accent-green);y
             background: rgba(14, 203, 129, 0.1);
             padding: 4px 8px;
             border-radius: 20px;
